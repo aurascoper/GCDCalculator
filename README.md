@@ -7,31 +7,27 @@ A simple and efficient tool for calculating the Greatest Common Divisor (GCD) of
 This repository contains a program designed to compute the GCD (also known as the Greatest Common Factor) using standard mathematical algorithms, such as the Euclidean algorithm.
 Features
 
-    Efficiently calculates the GCD using [mention the algorithm used, e.g., the Euclidean algorithm].
+Efficiently calculates the GCD using [mention the algorithm used, e.g., the Euclidean algorithm].
 
-    Command Line Interface: Simple to use directly from the terminal.
+Command Line Interface: Simple to use directly from the terminal.
 
 Prerequisites
 
-To run this calculator, you will need:
+To run this calculator, you will need rust pre-installed. 
 
-    [Specify the language/environment required, e.g., Python 3.8+, Node.js, Rust, etc.]
-
-Installation
-
-    Clone the repository:
+Clone the repository:
 
     `git clone https://github.com/aurascoper/GCDCalculator.git`
 
-    Navigate to the project directory:
+Navigate to the project directory:
 
     `cd GCDCalculator`
 
-    Install:
+Install:
 
     `cargo build --release`
 
-    Open the localhost and enter two numbers to determine the greatest common divisor between the two numbers.
+Open the localhost and enter two numbers to determine the greatest common divisor between the two numbers.
 
 
 
